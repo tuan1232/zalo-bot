@@ -1,0 +1,11 @@
+{
+  "name": "zalo-group-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "zca-js": "^2.1.2"
+  }
+}
